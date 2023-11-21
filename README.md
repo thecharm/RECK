@@ -10,7 +10,7 @@ The overall framework of our proposed RECK model which introduces external knowl
 
 ## Required Environment
 
-Our model is based on the framework of ["OpenNRE"](https://github.com/thunlp/OpenNRE). Please follow the instructions from their repository.
+Our model is based on the framework of [OpenNRE](https://github.com/thunlp/OpenNRE). Please follow the instructions from their repository.
 ```
 pip install opennre
 ```
