@@ -47,7 +47,7 @@ class SentenceREDataset(data.Dataset):
             self.concept_data = json.load(f)
         with open(self.concept_path_rev, 'r') as f:
             self.concept_rev_data = json.load(f)
-
+        
         self.data = []
         # text processing
         f = open(text_path, encoding='UTF-8')
