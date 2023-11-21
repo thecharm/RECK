@@ -2,13 +2,13 @@
 Official Implementation of our Paper ["Towards Bridged Vision and Language: Learning Cross-modal Knowledge Representation for Relation Extraction"](https://ieeexplore.ieee.org/abstract/document/10147282) in IEEE Transactions on Circuits and Systems for Video Technology.
 
 ## Motivation
-
+![intro](img/intro.png)
 
 We bridge semantic gaps between low-level visual objects and high-level textual relations with Cross-modal Knowledge graphs. We also provide some direct evidences for relation extraction. As a result, our method can generate the correct relations with corresponding reasons.
 
 
 ## Model Architecture
-
+![model](img/model.png)
 
 The overall framework of our proposed RECK model which introduces external knowledge to help predict textual relations. Three main modules are designed for multimodal semantic representation, cross-modal knowledge semantic representation, and final feature fusion and relation prediction. We construct the cross-modal knowledge graphs as a bridge to vision and language, thus the inconsistency problem of semantic levels can be addressed for precise relation identification.
 
