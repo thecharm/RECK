@@ -21,6 +21,8 @@ You need to download two kinds of data to run the code.
 
 1. The raw images of [MNRE](https://github.com/thecharm/MNRE).
 2. The visual objects from the raw images from [HVPNeT](https://github.com/zjunlp/HVPNeT), many thanks.
+3. The extracted conceptnet_vocab data can be found [here](https://drive.google.com/file/d/1zet1meEQq7gWzTddroQ_oE72JWJafBv9/view?usp=sharing).
+
 
 You should specify the "root_path2" in ``run.py`` with the path of the raw images and objects.
 
