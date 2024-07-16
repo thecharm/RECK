@@ -92,6 +92,8 @@ python run.py --ckpt best --only_test True
 
 You can simply get the best results by runing the training code without changing any hyper-params.
 
+The pretrained model weights can be downloaded [here](https://connectpolyu-my.sharepoint.com/:u:/r/personal/21040753r_connect_polyu_hk/Documents/RECK/best.pth.tar?csf=1&web=1&e=GjA91X)
+
 ## Citation
 
 If you find this repo helpful, please cite the following:
